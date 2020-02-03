@@ -39,5 +39,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Contact
 
 Yan Yan 
+
 Address: Computer Science Department, Xiamen University, Fujian, China.
+
 E-mail: yanyan at xmu.edu.cn
