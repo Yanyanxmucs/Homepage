@@ -5,8 +5,9 @@ I am an associate professor with the School of Informatics at [Xiamen University
 I received the PhD  degree in information and communication engineering from [Tsinghua University](http://www.tsinghua.edu.cn), China, in 2009.
 I obtain my Bachelor's degree from [University of Electronic Science and Technology of China](http://www.uestc.edu.cn), in 2004.
 
-He is currently an associate professor with the School of Informatics at Xiamen University, China. 
-He worked at Nokia Japan R&D center as a research engineer (2009-2010) and Panasonic Singapore Lab as a project leader (2011). He has published more than 60 papers in the international journals and conferences including the IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Image Processing, IEEE Transactions on Cybernetics, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Multimedia, International Journal of Computer Vision, PR, ICCV, ECCV, ACM MM, AAAI, etc. His research interests include computer vision and pattern recognition.
+I worked at Nokia Japan R&D center as a research engineer (2009-2010) and Panasonic Singapore Lab as a project leader (2011). I have  published more than 80 papers in the international journals and conferences including the IEEE T-PAMI, IJCV, IEEE T-IP, IEEE T-MM, IEEE T-AC, IEEE T-CYB, IEEE T-ITS, PR, ICCV, ECCV, ACM MM, AAAI, etc. 
+
+My interests include computer vision and pattern recognition, especially in facial analysis.
 
 You can use the [editor on GitHub](https://github.com/Yanyanxmucs/yanyan.me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
