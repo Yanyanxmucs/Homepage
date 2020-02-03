@@ -2,7 +2,7 @@
 
 I am an associate professor with the School of Informatics at [Xiamen University](http://www.xmu.edu.cn), China. 
 
-I received the PhD  degree in information and communication engineering from [Tsinghua University](http://www.tsinghua.edu.cn), China, in 2009. My supervisor is [Yu-Jin Zhang](http://oa.ee.tsinghua.edu.cn/~zhangyujin/)
+I received the PhD  degree in information and communication engineering from [Tsinghua University](http://www.tsinghua.edu.cn), China, in 2009. My supervisor is [Yu-Jin Zhang](http://oa.ee.tsinghua.edu.cn/~zhangyujin/).
 I obtained my Bachelor's degree from [University of Electronic Science and Technology of China](http://www.uestc.edu.cn), in 2004.
 
 I worked at Nokia Japan R&D center as a research engineer (2009-2010) and [Panasonic Singapore Lab](http://www.prdcsg.panasonic.com.sg/) as a project leader (2011). I have  published more than 80 papers in the international journals and conferences including the IEEE T-PAMI, IJCV, IEEE T-IP, IEEE T-MM, IEEE T-AC, IEEE T-CYB, IEEE T-ITS, PR, ICCV, ECCV, ACM MM, AAAI, etc. 
