@@ -18,7 +18,8 @@ My interests focus on computer vision and pattern recognition, especially the fo
 - robust model fitting
 ### News
 Call for papers
-Neurocomputing Special Issue on "Deep Learning with Small Samples" [Website](https://www.journals.elsevier.com/neurocomputing/call-for-papers). Submission Deadline: April 15, 2020.
+Neurocomputing Special Issue on "Deep Learning with Small Samples" [Website](https://www.journals.elsevier.com/neurocomputing/call-for-papers). 
+Submission Deadline: April 15, 2020.
 
 ### Selected Publications
 
