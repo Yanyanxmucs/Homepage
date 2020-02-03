@@ -17,8 +17,9 @@ My interests focus on computer vision and pattern recognition, especially the fo
 - object detection and tracking
 - robust model fitting
 
-[中文主页]{https://information.xmu.edu.cn/info/1019/3207.htm}
-[Google Scholar]{https://scholar.google.com/citations?user=g-cFsfkAAAAJ&hl=zh-CN}
+[中文主页](https://information.xmu.edu.cn/info/1019/3207.htm)
+
+[Google Scholar](https://scholar.google.com/citations?user=g-cFsfkAAAAJ&hl=zh-CN)
 
 ### News
 Call for papers
