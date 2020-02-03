@@ -48,7 +48,7 @@ Submission Deadline: April 15, 2020.
 - Hanzi Wang*, Guobao Xiao, Yan Yan, David Suter. Searching for representative modes on hypergraphs for robust geometric model fitting. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 41(3):697-711, 2019.
 - Guobao Xiao, Hanzi Wang*, Yan Yan, David Suter, Superpixel-Guided Two-View Deterministic Geometric Model Fitting. International Journal of Computer Vision (IJCV), 127(4):323-339, 2019.
 - Wanxiang Yang, Yan Yan*, Si Chen. Adaptive Deep Metric Embeddings for Person Re-Identification under Occlusions. Neurocomputing, 336:56-66, 2019.
-- Liao Zhang, Yan Yan, Lin Cheng, Hanzi Wang. Learning Object Scale with Click Supervision for Object Detection. IEEE Signal Processing Letters, 26(11):1618-1622, 2019.
+- Liao Zhang, Yan Yan, Lin Cheng, Hanzi Wang*. Learning Object Scale with Click Supervision for Object Detection. IEEE Signal Processing Letters, 26(11):1618-1622, 2019.
 - Guobao Xiao, Hanzi Wang*, Yan Yan, Liming Zhang. Robust geometric model fitting based on iterative Hypergraph Construction and Partition. Neurocomputing, 336:115-127,2019.
 
 ##### Conference
@@ -66,8 +66,8 @@ Submission Deadline: April 15, 2020.
 - Ying Huang, Yan Yan*, Si Chen, Hanzi Wang. Expression-targeted feature learning for effective facial expression recognition. Journal of Visual Communication and Image Representation, 55, 677-687, 2018.
 - Guobao Xiao, Xing Wang, Hailing Luo, Jin Zheng, Bo Li, Yan Yan, Hanzi Wang*. Conceptual space based model fitting for multi-structure data. Neurocomputing 315: 115-127 (2018)
 ##### Conference
-- Yanjie Liang, Qiangqiang Wu, Yi Liu, Yan Yan, Hanzi Wang. Robust Correlation Filter Tracking with Shepherded Instance-Aware Proposals, Proceedings of the ACM Multimedia (MM), 2018.
-- Qiangqiang Wu, Yan Yan, Yanjie Liang, Hanzi Wang, DSNet: Deep and Shallow Feature Learning for Efficient Visual Tracking. Proceedings of Asian Conference on Computer Vision, ACCV, 2018.
+- Yanjie Liang, Qiangqiang Wu, Yi Liu, Yan Yan, Hanzi Wang*. Robust Correlation Filter Tracking with Shepherded Instance-Aware Proposals, Proceedings of the ACM Multimedia (MM), 2018.
+- Qiangqiang Wu, Yan Yan, Yanjie Liang, Hanzi Wang*. DSNet: Deep and Shallow Feature Learning for Efficient Visual Tracking. Proceedings of Asian Conference on Computer Vision, ACCV, 2018.
 - Ni Zhuang, Yan Yan*, Si Chen, Hanzi Wang. Multi-task learning of cascaded CNN for facial attribute classification. Proceedings of the IEEE Conference on Pattern Recognition (ICPR), 2018.
 - Yihan Du, Yan Yan*, Si Chen, Yang Hua, Hanzi Wang object-Adaptive LSTM network for visual tracking. Proceedings of the IEEE Conference on Pattern Recognition (ICPR), 2018.
 - Chunguang Qie, Guo Guanjun, Yan Yan, Zhang Liming, Hanzi Wang*. Improved correlation filter tracking with hard negative mining. Proceedings of the IEEE Conference on Pattern Recognition (ICPR), 2018.
