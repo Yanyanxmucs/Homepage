@@ -56,7 +56,7 @@ My interests include computer vision and pattern recognition, especially in faci
 - Chunguang Qie, Guo Guanjun, Yan Yan, Zhang Liming, Hanzi Wang*. Improved correlation filter tracking with hard negative mining. Proceedings of the IEEE Conference on Pattern Recognition (ICPR), 2018.
 - Jian Liao, Guanjun Guo, Yan Yan, Hanzi Wang*. Multiscale cascaded scene-specifc convolutional neural networks for background subtraction. Proceedings of the Pacific-Rim Conference on Multimedia (PCM), 2018.
 
-#### [Before 2018}{https://yanyanxmucs.github.io/before2018/}
+#### [Before 2018]{https://yanyanxmucs.github.io/before2018/}
 
 ### Teaching
 - Undergradute Course: Digital Signal Processing
