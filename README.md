@@ -15,6 +15,7 @@ My interests focus on computer vision and pattern recognition, especially the fo
 - person re-identification
 - semantic segmentation
 - object detection and tracking
+- robust model fitting
 
 ### Selected Publications
 
