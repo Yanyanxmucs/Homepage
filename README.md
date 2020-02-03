@@ -1,4 +1,4 @@
-## Welcome to Yan Yan' Homepage
+## Welcome to Yan Yan's Homepage
 
 You can use the [editor on GitHub](https://github.com/Yanyanxmucs/yanyan.me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
