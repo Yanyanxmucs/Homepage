@@ -16,6 +16,10 @@ My interests focus on computer vision and pattern recognition, especially the fo
 - semantic segmentation
 - object detection and tracking
 - robust model fitting
+
+[中文主页]{https://information.xmu.edu.cn/info/1019/3207.htm}
+[Google Scholar]{https://scholar.google.com/citations?user=g-cFsfkAAAAJ&hl=zh-CN}
+
 ### News
 Call for papers
 Neurocomputing Special Issue on "Deep Learning with Small Samples" [Website](https://www.journals.elsevier.com/neurocomputing/call-for-papers). 
