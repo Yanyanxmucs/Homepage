@@ -7,7 +7,14 @@ I obtain my Bachelor's degree from [University of Electronic Science and Technol
 
 I worked at Nokia Japan R&D center as a research engineer (2009-2010) and [Panasonic Singapore Lab](http://www.prdcsg.panasonic.com.sg/) as a project leader (2011). I have  published more than 80 papers in the international journals and conferences including the IEEE T-PAMI, IJCV, IEEE T-IP, IEEE T-MM, IEEE T-AC, IEEE T-CYB, IEEE T-ITS, PR, ICCV, ECCV, ACM MM, AAAI, etc. 
 
-My interests include computer vision and pattern recognition, especially in facial analysis.
+My interests focus on computer vision and pattern recognition, especially the following topics.
+
+- face detection, tracking, recognition
+- facial attribute analysis
+- facial expression recognition
+- person re-identification
+- semantic segmentation
+- object detection and tracking
 
 ### Selected Publications
 
