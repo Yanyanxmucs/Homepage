@@ -1,4 +1,4 @@
-## Welcome to Yan Yan's Homepage
+## Welcome to Yan Yan's Homepage 
 
 I am an associate professor with the School of Informatics at [Xiamen University](http://www.xmu.edu.cn), China. 
 
@@ -66,6 +66,7 @@ My interests include computer vision and pattern recognition, especially in faci
 ### Contact
 
 Yan Yan 
+中国厦门大学计算机科学系 严严
 
 Address: Computer Science Department, Xiamen University, Fujian, China.
 
