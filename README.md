@@ -14,24 +14,7 @@ My interests include computer vision and pattern recognition, especially in faci
 ####  2020
 ##### Journal
 - Yan Yan*, Ying Huang, Si Chen, Chunhua Shen, Hanzi Wang. Joint Deep Learning of Facial Expression Synthesis and Recognition. IEEE Transactions on Multimedia, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/8943107)
-
-```markdown
-Abstract: The publicly available facial expression databases typically contain a small amount of labelled data. In this paper,
-to overcome the above issue, we propose a novel joint deep learning of facial expression synthesis and recognition method for
-effective FER.  A GAN and a recognition network are integrated in a unified framework to perform facial expression synthesis
-and recognition simultaneously.
-```
-
-
 - Longbiao Mao, Yan Yan*, Jing-Hao Xue, Hanzi Wang. Deep Multi-task Multi-label CNN for Effective Facial Attribute Classification. IEEE Transactions on Affective Computing, 2020. [Link](https://ieeexplore.ieee.org/document/8967026)
-
-```markdown
-Abstract:  State-of-the-art FAC methods perform face detection/alignment and FAC independently. The inherent dependencies between these
-tasks are not fully exploited. In addition, most methods predict all facial attributes using the same CNN network architecture, which
-ignores the different learning complexities of facial attributes. To address the above problems, we propose a novel deep multi-task
-multi-label CNN, termed DMM-CNN, for effective FAC. 
-```
-
 - Taotao Lai, Hanzi Wang*, Yan Yan, Tat-Jun Chin, Jin Zheng, Bo Li. Accelerated Guided Sampling for Multi-Structure Model Fitting. IEEE Transactions on Cybernetics, 2020.
 - Yan Yan, Zizhao Zhang, Si Chen, Hanzi Wang*. Low-resolution Facial Expression Recognition: A Filter Learning Perspective. Signal Processing, 169 (107370):1-13, 2020.
 - Yihan Du, Yan Yan*, Si Chen, Yang Hua. Object-Adaptive LSTM Network for Real-time Visual Tracking with Adversarial Data Augmentation. Neurocomputing, 2020.
