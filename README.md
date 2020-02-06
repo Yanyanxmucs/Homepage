@@ -81,8 +81,11 @@ Submission Deadline: April 15, 2020.
 
 ### Collaborators
 [Hanzi Wang](http://pami.xmu.edu.cn/hanzi/index.html) Xiamen University, China
+
 [Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/) Department of Statistical Science, University College London, UK
+
 [Chunhua Shen](https://cs.adelaide.edu.au/~chhshen/) University of Adelaide, Australia
+
 [David Suter](https://www.ecu.edu.au/schools/science/staff/profiles/professors/professor-david-suter) Edith Cowan University, Australia
 
 ### Contact
