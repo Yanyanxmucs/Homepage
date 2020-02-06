@@ -39,7 +39,7 @@ Submission Deadline: April 15, 2020.
 - Guanjun Guo, Hanzi Wang*, **Yan Yan**, Liming Zhang, Bo Li, Large Margin Deep Embedding for Aesthetic Image Classification. SCIENCE CHINA Information Sciences, 2020, 63(1): 119102.
 - Guobao Xiao, Xiong Zhou, **Yan Yan**, Hanzi Wang*.  A Two-Step Hypergraph Reduction based Fitting Method for Unbalanced Data. Pattern Recognition Letters, 2020.
 - Guanjun Guo, Hanzi Wang*, **Yan Yan**, Jin Zheng, Bo Li, A fast face detection method via convolutional neural network, Neurocomputing, 2020.
-- 杨婉香，**严严***，陈思，张小康，王菡子. 基于多尺度生成对抗网络的遮挡行人重识别方法. 软件学报(In Chinese), 2020.
+- 杨婉香，**严严***，陈思，张小康，王菡子. 基于多尺度生成对抗网络的遮挡行人重识别方法. 软件学报(In Chinese), 2020. [PDF](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5932&journal_id=jos)
 - 郭翰林，肖国宝，**严严**，林舒源，王菡子*，基于偏好统计数据表征的鲁棒几何模型拟合方法。计算机学报(In Chinese)，2020.
 
 
