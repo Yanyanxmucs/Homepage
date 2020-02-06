@@ -61,7 +61,7 @@ Submission Deadline: April 15, 2020.
 ##### Journal
 - Zizhao Zhang*, Fuyong Xing, Hanzi Wang, **Yan Yan**, Ying Huang, Xiaoshuang Shi, Lin Yang. Revisiting graph construction for fast image segmentation. Pattern Recognition (PR), 78: 344-357, 2018.
 - Guanjun Guo, Hanzi Wang*, Wan-Lei Zhao, **Yan Yan**, Xuelong Li. Object discovery via cohesion measurement. IEEE Transactions on Cybernetics (T-CYB), 48(3): 862-875, 2018.
-- Ni Zhuang, **Yan Yan***, Si Chen, Hanzi Wang, Chunhua Shen. Multi-label learning based deep transfer neural network for facial attribute classification. Pattern Recognition (PR), 80:225-240, 2018. [Link](https://arxiv.org/pdf/1805.01282)
+- Ni Zhuang, **Yan Yan***, Si Chen, Hanzi Wang, Chunhua Shen. Multi-label learning based deep transfer neural network for facial attribute classification. Pattern Recognition (PR), 80:225-240, 2018. [[PDF]](https://arxiv.org/pdf/1805.01282)
 - Guanjun Guo, Hanzi Wang*, Chunhua Shen, **Yan Yan**, Mark Liao. Automatic image cropping for visual aesthetic enhancement using deep neural networks and cascaded regression. IEEE Transactions on Multimedia (T-MM), 20(8):2073-2085, 2018.
 - Ying Huang, **Yan Yan***, Si Chen, Hanzi Wang. Expression-targeted feature learning for effective facial expression recognition. Journal of Visual Communication and Image Representation, 55, 677-687, 2018.
 - Guobao Xiao, Xing Wang, Hailing Luo, Jin Zheng, Bo Li, **Yan Yan**, Hanzi Wang*. Conceptual space based model fitting for multi-structure data. Neurocomputing 315: 115-127 (2018)
