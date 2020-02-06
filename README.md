@@ -40,13 +40,13 @@ Submission Deadline: April 15, 2020.
 - Guobao Xiao, Xiong Zhou, **Yan Yan**, Hanzi Wang*.  A Two-Step Hypergraph Reduction based Fitting Method for Unbalanced Data. Pattern Recognition Letters, 2020.
 - Guanjun Guo, Hanzi Wang*, **Yan Yan**, Jin Zheng, Bo Li, A fast face detection method via convolutional neural network, Neurocomputing, 2020.
 - 杨婉香，**严严***，陈思，张小康，王菡子. 基于多尺度生成对抗网络的遮挡行人重识别方法. 软件学报(In Chinese), 2020. [PDF](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5932&journal_id=jos)
-- 郭翰林，肖国宝，**严严**，林舒源，王菡子*，基于偏好统计数据表征的鲁棒几何模型拟合方法。计算机学报(In Chinese)，2020.
+- 郭翰林，肖国宝，**严严**，林舒源，王菡子*，基于偏好统计数据表征的鲁棒几何模型拟合方法。计算机学报(In Chinese)，2020. [PDF](https://arxiv.org/pdf/1803.10103)
 
 
 #### 2019
 ##### Journal
-- Hanzi Wang*, Guobao Xiao, **Yan Yan**, David Suter. Searching for representative modes on hypergraphs for robust geometric model fitting. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 41(3):697-711, 2019.
-- Guobao Xiao, Hanzi Wang*, **Yan Yan**, David Suter, Superpixel-Guided Two-View Deterministic Geometric Model Fitting. International Journal of Computer Vision (IJCV), 127(4):323-339, 2019.
+- Hanzi Wang*, Guobao Xiao, **Yan Yan**, David Suter. Searching for representative modes on hypergraphs for robust geometric model fitting. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 41(3):697-711, 2019. [PDF](https://arxiv.org/pdf/1802.01129)
+- Guobao Xiao, Hanzi Wang*, **Yan Yan**, David Suter, Superpixel-Guided Two-View Deterministic Geometric Model Fitting. International Journal of Computer Vision (IJCV), 127(4):323-339, 2019. [PDF](https://arxiv.org/pdf/1805.01158)
 - Wanxiang Yang, **Yan Yan***, Si Chen. Adaptive Deep Metric Embeddings for Person Re-Identification under Occlusions. Neurocomputing, 336:56-66, 2019.
 - Liao Zhang, **Yan Yan**, Lin Cheng, Hanzi Wang*. Learning Object Scale with Click Supervision for Object Detection. IEEE Signal Processing Letters, 26(11):1618-1622, 2019.
 - Guobao Xiao, Hanzi Wang*, **Yan Yan**, Liming Zhang. Robust geometric model fitting based on iterative Hypergraph Construction and Partition. Neurocomputing, 336:115-127,2019.
