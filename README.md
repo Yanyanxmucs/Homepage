@@ -36,7 +36,7 @@ Submission Deadline: April 15, 2020.
 - Taotao Lai, Hanzi Wang*, **Yan Yan***, Tat-Jun Chin, Jin Zheng, Bo Li. Accelerated Guided Sampling for Multi-Structure Model Fitting. IEEE Transactions on Cybernetics, 2020.
 - **Yan Yan**, Zizhao Zhang, Si Chen, Hanzi Wang*. Low-Resolution Facial Expression Recognition: A Filter Learning Perspective. Signal Processing, 169 (107370):1-13, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0165168419304232?via%3Dihub)
 - Yihan Du, **Yan Yan***, Si Chen, Yang Hua. Object-Adaptive LSTM Network for Real-time Visual Tracking with Adversarial Data Augmentation. Neurocomputing, 2020.
-- Guanjun Guo, Hanzi Wang*, **Yan Yan**, Liming Zhang, Bo Li, Large Margin Deep Embedding for Aesthetic Image Classification. SCIENCE CHINA Information Sciences, 2020, 63(1): 119102.
+- Guanjun Guo, Hanzi Wang*, **Yan Yan**, Liming Zhang, Bo Li, Large Margin Deep Embedding for Aesthetic Image Classification. SCIENCE CHINA Information Sciences, 2020, 63(1): 119102. [[PDF]](http://scis.scichina.com/en/2020/119101.pdf)
 - Guobao Xiao, Xiong Zhou, **Yan Yan**, Hanzi Wang*.  A Two-Step Hypergraph Reduction based Fitting Method for Unbalanced Data. Pattern Recognition Letters, 2020.
 - Guanjun Guo, Hanzi Wang*, **Yan Yan**, Jin Zheng, Bo Li, A fast face detection method via convolutional neural network, Neurocomputing, 2020. [[PDF]](https://arxiv.org/pdf/1803.10103)
 - 杨婉香，**严严***，陈思，张小康，王菡子. 基于多尺度生成对抗网络的遮挡行人重识别方法. 软件学报(In Chinese), 2020. [[PDF]](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5932&journal_id=jos)
