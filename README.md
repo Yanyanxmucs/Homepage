@@ -32,7 +32,7 @@ Submission Deadline: April 15, 2020.
 
 ####  2020
 ##### Journal
-- **Yan Yan***, Ying Huang, Si Chen, Chunhua Shen, Hanzi Wang. Joint Deep Learning of Facial Expression Synthesis and Recognition. IEEE Transactions on Multimedia, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/8943107)
+- **Yan Yan***, Ying Huang, Si Chen, Chunhua Shen, Hanzi Wang. Joint Deep Learning of Facial Expression Synthesis and Recognition. IEEE Transactions on Multimedia, 2020. [[PDF]](https://arxiv.org/pdf/2002.02194.pdf)[Link](https://ieeexplore.ieee.org/abstract/document/8943107)
 - Longbiao Mao, **Yan Yan***, Jing-Hao Xue, Hanzi Wang. Deep Multi-task Multi-label CNN for Effective Facial Attribute Classification. IEEE Transactions on Affective Computing, 2020. [Link](https://ieeexplore.ieee.org/document/8967026)
 - Taotao Lai, Hanzi Wang*, **Yan Yan***, Tat-Jun Chin, Jin Zheng, Bo Li. Accelerated Guided Sampling for Multi-Structure Model Fitting. IEEE Transactions on Cybernetics, 2020.
 - **Yan Yan**, Zizhao Zhang, Si Chen, Hanzi Wang*. Low-Resolution Facial Expression Recognition: A Filter Learning Perspective. Signal Processing, 169 (107370):1-13, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0165168419304232?via%3Dihub)
