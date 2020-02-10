@@ -36,7 +36,7 @@ Submission Deadline: April 15, 2020.
 - Longbiao Mao, **Yan Yan***, Jing-Hao Xue, Hanzi Wang. Deep Multi-task Multi-label CNN for Effective Facial Attribute Classification. IEEE Transactions on Affective Computing, 2020. [Link](https://ieeexplore.ieee.org/document/8967026)
 - Taotao Lai, Hanzi Wang*, **Yan Yan***, Tat-Jun Chin, Jin Zheng, Bo Li. Accelerated Guided Sampling for Multi-Structure Model Fitting. IEEE Transactions on Cybernetics, 2020.
 - **Yan Yan**, Zizhao Zhang, Si Chen, Hanzi Wang*. Low-Resolution Facial Expression Recognition: A Filter Learning Perspective. Signal Processing, 169 (107370):1-13, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0165168419304232?via%3Dihub)
-- Yihan Du, **Yan Yan***, Si Chen, Yang Hua. Object-Adaptive LSTM Network for Real-time Visual Tracking with Adversarial Data Augmentation. Neurocomputing, 2020.
+- Yihan Du, **Yan Yan***, Si Chen, Yang Hua. Object-Adaptive LSTM Network for Real-time Visual Tracking with Adversarial Data Augmentation. Neurocomputing, 2020. [[PDF]](https://arxiv.org/pdf/2002.02598.pdf)
 - Guanjun Guo, Hanzi Wang*, **Yan Yan**, Liming Zhang, Bo Li, Large Margin Deep Embedding for Aesthetic Image Classification. SCIENCE CHINA Information Sciences, 2020, 63(1): 119102. [[PDF]](http://scis.scichina.com/en/2020/119101.pdf)
 - Guobao Xiao, Xiong Zhou, **Yan Yan**, Hanzi Wang*.  A Two-Step Hypergraph Reduction based Fitting Method for Unbalanced Data. Pattern Recognition Letters, 2020.
 - Guanjun Guo, Hanzi Wang*, **Yan Yan**, Jin Zheng, Bo Li, A fast face detection method via convolutional neural network, Neurocomputing, 2020. [[PDF]](https://arxiv.org/pdf/1803.10103)
@@ -48,7 +48,7 @@ Submission Deadline: April 15, 2020.
 ##### Journal
 - Hanzi Wang*, Guobao Xiao, **Yan Yan**, David Suter. Searching for representative modes on hypergraphs for robust geometric model fitting. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 41(3):697-711, 2019. [[PDF]](https://arxiv.org/pdf/1802.01129)
 - Guobao Xiao, Hanzi Wang*, **Yan Yan**, David Suter, Superpixel-Guided Two-View Deterministic Geometric Model Fitting. International Journal of Computer Vision (IJCV), 127(4):323-339, 2019. [[PDF]](https://arxiv.org/pdf/1805.01158)
-- Wanxiang Yang, **Yan Yan***, Si Chen. Adaptive Deep Metric Embeddings for Person Re-Identification under Occlusions. Neurocomputing, 336:56-66, 2019.
+- Wanxiang Yang, **Yan Yan***, Si Chen. Adaptive Deep Metric Embeddings for Person Re-Identification under Occlusions. Neurocomputing, 336:56-66, 2019. [[PDF]](https://arxiv.org/pdf/2002.02603)
 - Liao Zhang, **Yan Yan**, Lin Cheng, Hanzi Wang*. Learning Object Scale with Click Supervision for Object Detection. IEEE Signal Processing Letters, 26(11):1618-1622, 2019.
 - Guobao Xiao, Hanzi Wang*, **Yan Yan**, Liming Zhang. Robust geometric model fitting based on iterative Hypergraph Construction and Partition. Neurocomputing, 336:115-127,2019.
 
