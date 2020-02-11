@@ -6,7 +6,7 @@ I received the PhD  degree in information and communication engineering from [Ts
 I obtained my Bachelor's degree from [University of Electronic Science and Technology of China](http://www.uestc.edu.cn), in 2004.
 
 I worked at Nokia Japan R&D center as a research engineer (2009-2010) in the Imaging Software Team led by Jiunn Bay,
-and [Panasonic Singapore Lab](http://www.prdcsg.panasonic.com.sg/) as a project leader (2011) in the Meida Processing Group led by Shengmei Shen. I have  published more than 80 papers in the international journals and conferences including the IEEE T-PAMI, IJCV, IEEE T-IP, IEEE T-MM, IEEE T-AC, IEEE T-CYB, IEEE T-ITS, PR, ICCV, ECCV, ACM MM, AAAI, etc. 
+and [Panasonic Singapore Lab](http://www.prdcsg.panasonic.com.sg/) as a project leader (2011) in the Media Processing Group led by Shengmei Shen. I have  published more than 80 papers in the international journals and conferences including the IEEE T-PAMI, IJCV, IEEE T-IP, IEEE T-MM, IEEE T-AC, IEEE T-CYB, IEEE T-ITS, PR, ICCV, ECCV, ACM MM, AAAI, etc. 
 
 My interests focus on computer vision and pattern recognition, especially the following topics.
 
