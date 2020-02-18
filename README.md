@@ -10,12 +10,12 @@ and [Panasonic Singapore Lab](http://www.prdcsg.panasonic.com.sg/) as a project 
 
 My interests focus on computer vision and pattern recognition, especially the following topics.
 
-- face detection, tracking, recognition
 - facial attribute analysis
 - facial expression recognition
 - person re-identification
 - semantic segmentation
 - object detection and tracking
+- face detection, tracking, recognition
 - robust model fitting
 
 [中文主页](https://information.xmu.edu.cn/info/1019/3207.htm)
@@ -33,7 +33,7 @@ Submission Deadline: April 15, 2020.
 ####  2020
 ##### Journal
 - **Yan Yan***, Ying Huang, Si Chen, Chunhua Shen, Hanzi Wang. Joint Deep Learning of Facial Expression Synthesis and Recognition. IEEE Transactions on Multimedia, 2020. [[PDF]](https://arxiv.org/pdf/2002.02194.pdf)[Link](https://ieeexplore.ieee.org/abstract/document/8943107)
-- Longbiao Mao, **Yan Yan***, Jing-Hao Xue, Hanzi Wang. Deep Multi-task Multi-label CNN for Effective Facial Attribute Classification. IEEE Transactions on Affective Computing, 2020. [Link](https://ieeexplore.ieee.org/document/8967026)
+- Longbiao Mao, **Yan Yan***, Jing-Hao Xue, Hanzi Wang. Deep Multi-task Multi-label CNN for Effective Facial Attribute Classification. IEEE Transactions on Affective Computing, 2020. [[PDF]](https://arxiv.org/pdf/2002.03683.pdf)[Link](https://ieeexplore.ieee.org/document/8967026)
 - Taotao Lai, Hanzi Wang*, **Yan Yan***, Tat-Jun Chin, Jin Zheng, Bo Li. Accelerated Guided Sampling for Multi-Structure Model Fitting. IEEE Transactions on Cybernetics, 2020.
 - **Yan Yan**, Zizhao Zhang, Si Chen, Hanzi Wang*. Low-Resolution Facial Expression Recognition: A Filter Learning Perspective. Signal Processing, 169 (107370):1-13, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0165168419304232?via%3Dihub)
 - Yihan Du, **Yan Yan***, Si Chen, Yang Hua. Object-Adaptive LSTM Network for Real-time Visual Tracking with Adversarial Data Augmentation. Neurocomputing, 2020. [[PDF]](https://arxiv.org/pdf/2002.02598.pdf)
@@ -53,7 +53,7 @@ Submission Deadline: April 15, 2020.
 - Guobao Xiao, Hanzi Wang*, **Yan Yan**, Liming Zhang. Robust geometric model fitting based on iterative Hypergraph Construction and Partition. Neurocomputing, 336:115-127,2019.
 
 ##### Conference
-- Shuyuan Lin, Guobao Xiao, **Yan Yan**, Hanzi Wang*, David Suter. Hypergraph Optimization for Multi-structural Geometric Model Fitting. Proceedings of AAAI Conference on Artificial Intelligence, 2019.
+- Shuyuan Lin, Guobao Xiao, **Yan Yan**, Hanzi Wang*, David Suter. Hypergraph Optimization for Multi-structural Geometric Model Fitting. Proceedings of AAAI Conference on Artificial Intelligence, 2019. [[PDF]](https://arxiv.org/pdf/2002.05350)
 - Luo Xiong, Yanjie Liang, **Yan Yan**, Hanzi Wang*. Correlation filter tracking with adaptive proposal selection for accurate scale estimation. Proceedings of IEEE International Conference on Multimedia & Expo, 2019.
 - Xiangbang Meng, **Yan Yan***, Si Chen, Hanzi Wang. A cascaded noise-robust deep CNN for face recognition. Proceedings of International Conference on Image Processing, 2019.
 - Lijian Lin, Haosheng Chen, Yanjie Liang, **Yan Yan**, Hanzi Wang*. Robust visual tracking via statistical positive sample generation and gradient aware learning. ACM MM Asia, 2019.
