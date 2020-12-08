@@ -8,6 +8,8 @@ I obtained my Bachelor's degree from [University of Electronic Science and Techn
 I worked at Nokia Japan R&D center as a research engineer (2009-2010) in the Imaging Software Team led by Jiunn Bay,
 and [Panasonic Singapore Lab](http://www.prdcsg.panasonic.com.sg/) as a project leader (2011) in the Media Processing Group led by Shengmei Shen. I have  published more than 80 papers in the international journals and conferences including the IEEE T-PAMI, IJCV, IEEE T-IP, IEEE T-MM, IEEE T-AC, IEEE T-CYB, IEEE T-ITS, PR, ICCV, ECCV, ACM MM, AAAI, etc. 
 
+I am an IEEE member. I serve as a young associate editor in Journal of image and Graphics (JIG, 中国图象图形学报 in Chinese) and a reviewer for several international conference, including CVPR 2021, ECCV 2020, AAAI 2021, AAAI 2020, PRCV 2020, ICCV 2019, etc.
+
 My interests focus on computer vision and pattern recognition, especially the following topics.
 
 - facial attribute analysis
