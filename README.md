@@ -74,6 +74,7 @@ Submission Deadline: April 15, 2020.
 - Guanjun Guo, Hanzi Wang*, Chunhua Shen, **Yan Yan**, Mark Liao. Automatic image cropping for visual aesthetic enhancement using deep neural networks and cascaded regression. IEEE Transactions on Multimedia (T-MM), 20(8):2073-2085, 2018. [[PDF]](https://arxiv.org/pdf/1712.09048)
 - Ying Huang, **Yan Yan***, Si Chen, Hanzi Wang. Expression-targeted feature learning for effective facial expression recognition. Journal of Visual Communication and Image Representation, 55, 677-687, 2018.
 - Guobao Xiao, Xing Wang, Hailing Luo, Jin Zheng, Bo Li, **Yan Yan**, Hanzi Wang*. Conceptual space based model fitting for multi-structure data. Neurocomputing 315: 115-127 (2018)
+
 ##### Conference
 - Yanjie Liang, Qiangqiang Wu, Yi Liu, **Yan Yan**, Hanzi Wang*. Robust Correlation Filter Tracking with Shepherded Instance-Aware Proposals, Proceedings of the ACM Multimedia (MM), 2018.
 - Qiangqiang Wu, **Yan Yan**, Yanjie Liang, Hanzi Wang*. DSNet: Deep and Shallow Feature Learning for Efficient Visual Tracking. Proceedings of Asian Conference on Computer Vision, ACCV, 2018. [[PDF]](https://arxiv.org/pdf/1811.02208)
