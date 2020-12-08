@@ -32,6 +32,9 @@ Submission Deadline: April 15, 2020.
 
 ####  2020
 ##### Journal
+
+- Xiaokang Zhang, **Yan Yan***, Jing-Hao Xue, Yang Hua, Hanzi Wang. Semantic-Aware Occlusion-Robust Network for Occluded Person Re-Identification. IEEE Transactions on Circuits and Systems for Video Technology, 2020.[Link](https://ieeexplore.ieee.org/document/9236648)
+- Genshun Dong, **Yan Yan***, Chunhua Shen, Hanzi Wang. Real-Time High-Performance Semantic Image Segmentation of Urban Street Ccenes. IEEE Transactions on Intelligent Transportation Systems, 2020. [[PDF]](https://arxiv.org/abs/2003.08736)[Link](https://ieeexplore.ieee.org/document/9042876)
 - **Yan Yan***, Ying Huang, Si Chen, Chunhua Shen, Hanzi Wang. Joint Deep Learning of Facial Expression Synthesis and Recognition. IEEE Transactions on Multimedia, 2020. [[PDF]](https://arxiv.org/pdf/2002.02194.pdf)[Link](https://ieeexplore.ieee.org/abstract/document/8943107)
 - Longbiao Mao, **Yan Yan***, Jing-Hao Xue, Hanzi Wang. Deep Multi-task Multi-label CNN for Effective Facial Attribute Classification. IEEE Transactions on Affective Computing, 2020. [[PDF]](https://arxiv.org/pdf/2002.03683.pdf)[Link](https://ieeexplore.ieee.org/document/8967026)
 - Taotao Lai, Hanzi Wang*, **Yan Yan***, Tat-Jun Chin, Jin Zheng, Bo Li. Accelerated Guided Sampling for Multi-Structure Model Fitting. IEEE Transactions on Cybernetics, 2020.
@@ -43,6 +46,9 @@ Submission Deadline: April 15, 2020.
 - 杨婉香，**严严***，陈思，张小康，王菡子. 基于多尺度生成对抗网络的遮挡行人重识别方法. 软件学报(In Chinese), 2020. [[PDF]](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5932&journal_id=jos)
 - 郭翰林，肖国宝，**严严**，林舒源，王菡子*，基于偏好统计数据表征的鲁棒几何模型拟合方法。计算机学报(In Chinese)，2020. 
 
+##### Conference
+
+- Delian Ruan, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. Deep Disturbance-disentangled Learning for Facial Expression Recognition, Proceedings of the ACM Multimedia (MM), 2020.
 
 #### 2019
 ##### Journal
