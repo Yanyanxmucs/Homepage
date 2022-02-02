@@ -1,9 +1,8 @@
 ## Welcome to Yan Yan's Homepage 
 
-I am an associate professor with the School of Informatics at [Xiamen University](http://www.xmu.edu.cn), China. 
+I am a professor with the School of Informatics at [Xiamen University](http://www.xmu.edu.cn), China. 
 
-I received the PhD  degree in information and communication engineering from [Tsinghua University](http://www.tsinghua.edu.cn), China, in 2009. My supervisor is Prof. [Yu-Jin Zhang](http://oa.ee.tsinghua.edu.cn/~zhangyujin/).
-I obtained my Bachelor's degree from [University of Electronic Science and Technology of China](http://www.uestc.edu.cn), in 2004.
+I received the PhD  degree in information and communication engineering from [Tsinghua University](http://www.tsinghua.edu.cn), China, in 2009. My supervisor is Prof. [Yu-Jin Zhang](http://oa.ee.tsinghua.edu.cn/~zhangyujin/). I obtained my Bachelor's degree from [University of Electronic Science and Technology of China](http://www.uestc.edu.cn), in 2004.
 
 I worked at Nokia Japan R&D center as a research engineer (2009-2010) in the Imaging Software Team led by Jiunn Bay,
 and [Panasonic Singapore Lab](http://www.prdcsg.panasonic.com.sg/) as a project leader (2011) in the Media Processing Group led by Shengmei Shen. I have  published more than 80 papers in the international journals and conferences including the IEEE T-PAMI, IJCV, IEEE T-IP, IEEE T-MM, IEEE T-AC, IEEE T-CYB, IEEE T-CSVT, IEEE T-ITS, PR, ICCV, ECCV, ACM MM, AAAI, etc. 
@@ -27,16 +26,32 @@ My interests focus on computer vision and pattern recognition, especially the fo
 ### News
 Call for papers
 Neurocomputing Special Issue on ["Deep Learning with Small Samples"](https://www.journals.elsevier.com/neurocomputing/call-for-papers). 
-
-Submission Deadline: April 15, 2020.
+Call for papers
+Sensors Special Issue on ["Scene Understanding for Autonomous Driving"](https://www.mdpi.com/journal/sensors/special_issues/SUAD).
+Deadline: 30 September 2022.
 
 ### Selected Publications
+####  2022
+##### Journal
+- Delian Ruan, Rongyun Mo, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. Adaptive Deep Disturbance-Disentangled Learning for Facial Expression Recognition. International Journal of Computer Vision, 2022. [Link](https://link.springer.com/article/10.1007/s11263-021-01556-7)
+- Xi Weng, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. Stage-aware feature alignment network for real-time semantic segmentation of street scenes. IEEE Transactions on Circuits and Systems for Video Technology, 2022. [Link](https://ieeexplore.ieee.org/document/9583294)
+##### Conference
+- Xinyi Zou, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. When Facial Expression Recognition Meets Few-Shot Learning: A Joint and Alternate Learning Framework. AAAI, 2022. [Link](https://arxiv.org/abs/2201.06781)
+
+####  2021
+##### Journal
+- Genshun Dong, **Yan Yan***, Chunhua Shen, Hanzi Wang. Real-time high-performance semantic image segmentation of urban street scenes. IEEE Transactions on Intelligent Transportation Systems (T-ITS), 22(6), 3258-3274, 2021. [Link](https://arxiv.org/abs/2003.08736)
+- Xiaokang Zhang, **Yan Yan***, Jing-Hao Xue, Yang Hua, Hanzi Wang. Semantic-aware occlusion-robust network for occluded person re-identification. IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 31(7), 2764-2778, 2021. [Link](https://ieeexplore.ieee.org/document/9236648)
+
+##### Conference
+- Delian Ruan, **Yan Yan***, Shenqi Lai, Zhenhua Chai, Chunhua Shen, Hanzi Wang. Feature Decomposition and Reconstruction Learning for Effective Facial Expression. Proceedings of IEEE Conference on Computer Vision and Pattern Recognition, 2021. [Link](https://arxiv.org/abs/2104.05160)
+- Ying Shu, **Yan Yan***, Si Chen, Jing-Hao Xue, Chunhua Shen, Hanzi Wang. Learning spatial-semantic relationship for facial attribute recognition with limited labeled data. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, acceptance rate 23.7%), 11916-11925, 2021. [Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Learning_Spatial-Semantic_Relationship_for_Facial_Attribute_Recognition_With_Limited_Labeled_CVPR_2021_paper.pdf)
+- Rongyun Mo, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. D3Net: Dual-Branch Disturbance Disentangling Network for Facial Expression Recognition. Proceedings of the ACM Multimedia (MM), 2021. [Link](https://dl.acm.org/doi/10.1145/3474085.3475249)
+- Youze Xu, **Yan Yan***, Jing-Hao Xu, Yang Lu, Hanzi Wang, Small-vote sample selection for label-noise learning. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD). [Link](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_399.pdf)
+
 
 ####  2020
 ##### Journal
-
-- Xiaokang Zhang, **Yan Yan***, Jing-Hao Xue, Yang Hua, Hanzi Wang. Semantic-Aware Occlusion-Robust Network for Occluded Person Re-Identification. IEEE Transactions on Circuits and Systems for Video Technology, 2020.[Link](https://ieeexplore.ieee.org/document/9236648)
-- Genshun Dong, **Yan Yan***, Chunhua Shen, Hanzi Wang. Real-Time High-Performance Semantic Image Segmentation of Urban Street Ccenes. IEEE Transactions on Intelligent Transportation Systems, 2020. [[PDF]](https://arxiv.org/abs/2003.08736)[Link](https://ieeexplore.ieee.org/document/9042876)
 - **Yan Yan***, Ying Huang, Si Chen, Chunhua Shen, Hanzi Wang. Joint Deep Learning of Facial Expression Synthesis and Recognition. IEEE Transactions on Multimedia, 2020. [[PDF]](https://arxiv.org/pdf/2002.02194.pdf)[Link](https://ieeexplore.ieee.org/abstract/document/8943107)
 - Longbiao Mao, **Yan Yan***, Jing-Hao Xue, Hanzi Wang. Deep Multi-task Multi-label CNN for Effective Facial Attribute Classification. IEEE Transactions on Affective Computing, 2020. [[PDF]](https://arxiv.org/pdf/2002.03683.pdf)[Link](https://ieeexplore.ieee.org/document/8967026)
 - Taotao Lai, Hanzi Wang*, **Yan Yan***, Tat-Jun Chin, Jin Zheng, Bo Li. Accelerated Guided Sampling for Multi-Structure Model Fitting. IEEE Transactions on Cybernetics, 2020.
@@ -49,7 +64,6 @@ Submission Deadline: April 15, 2020.
 - 郭翰林，肖国宝，**严严**，林舒源，王菡子*，基于偏好统计数据表征的鲁棒几何模型拟合方法。计算机学报(In Chinese)，2020. 
 
 ##### Conference
-
 - Delian Ruan, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. Deep Disturbance-disentangled Learning for Facial Expression Recognition, Proceedings of the ACM Multimedia (MM), 2020.
 
 #### 2019
