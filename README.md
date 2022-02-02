@@ -36,13 +36,14 @@ Deadline: 30 September 2022.
 ##### Journal
 - Delian Ruan, Rongyun Mo, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. Adaptive Deep Disturbance-Disentangled Learning for Facial Expression Recognition. International Journal of Computer Vision, 2022. [Link](https://link.springer.com/article/10.1007/s11263-021-01556-7)
 - Xi Weng, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. Stage-aware feature alignment network for real-time semantic segmentation of street scenes. IEEE Transactions on Circuits and Systems for Video Technology, 2022. [Link](https://ieeexplore.ieee.org/document/9583294)
+
 ##### Conference
 - Xinyi Zou, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. When Facial Expression Recognition Meets Few-Shot Learning: A Joint and Alternate Learning Framework. AAAI, 2022. [Link](https://arxiv.org/abs/2201.06781)
 
 ####  2021
 ##### Journal
-- Genshun Dong, **Yan Yan***, Chunhua Shen, Hanzi Wang. Real-time high-performance semantic image segmentation of urban street scenes. IEEE Transactions on Intelligent Transportation Systems (T-ITS), 22(6), 3258-3274, 2021. [Link](https://arxiv.org/abs/2003.08736)
-- Xiaokang Zhang, **Yan Yan***, Jing-Hao Xue, Yang Hua, Hanzi Wang. Semantic-aware occlusion-robust network for occluded person re-identification. IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 31(7), 2764-2778, 2021. [Link](https://ieeexplore.ieee.org/document/9236648)
+- Genshun Dong, **Yan Yan***, Chunhua Shen, Hanzi Wang. Real-time high-performance semantic image segmentation of urban street scenes. IEEE Transactions on Intelligent Transportation Systems, 22(6), 3258-3274, 2021. [Link](https://arxiv.org/abs/2003.08736)
+- Xiaokang Zhang, **Yan Yan***, Jing-Hao Xue, Yang Hua, Hanzi Wang. Semantic-aware occlusion-robust network for occluded person re-identification. IEEE Transactions on Circuits and Systems for Video Technology, 31(7), 2764-2778, 2021. [Link](https://ieeexplore.ieee.org/document/9236648)
 
 ##### Conference
 - Delian Ruan, **Yan Yan***, Shenqi Lai, Zhenhua Chai, Chunhua Shen, Hanzi Wang. Feature Decomposition and Reconstruction Learning for Effective Facial Expression. Proceedings of IEEE Conference on Computer Vision and Pattern Recognition, 2021. [Link](https://arxiv.org/abs/2104.05160)
