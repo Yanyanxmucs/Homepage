@@ -26,6 +26,7 @@ My interests focus on computer vision and pattern recognition, especially the fo
 ### News
 Call for papers
 Neurocomputing Special Issue on ["Deep Learning with Small Samples"](https://www.journals.elsevier.com/neurocomputing/call-for-papers). 
+
 Call for papers
 Sensors Special Issue on ["Scene Understanding for Autonomous Driving"](https://www.mdpi.com/journal/sensors/special_issues/SUAD).
 Deadline: 30 September 2022.
