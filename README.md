@@ -4,8 +4,8 @@ I am a professor with the School of Informatics at [Xiamen University](http://ww
 
 I received the PhD  degree in information and communication engineering from [Tsinghua University](http://www.tsinghua.edu.cn), China, in 2009. My supervisor is Prof. [Yu-Jin Zhang](http://oa.ee.tsinghua.edu.cn/~zhangyujin/). I obtained my Bachelor's degree from [University of Electronic Science and Technology of China](http://www.uestc.edu.cn), in 2004.
 
-I worked at Nokia Japan R&D center as a research engineer (2009-2010) in the Imaging Software Team led by Jiunn Bay,
-and [Panasonic Singapore Lab](http://www.prdcsg.panasonic.com.sg/) as a project leader (2011) in the Media Processing Group led by Shengmei Shen. I have  published more than 80 papers in the international journals and conferences including the IEEE T-PAMI, IJCV, IEEE T-IP, IEEE T-MM, IEEE T-AC, IEEE T-CYB, IEEE T-CSVT, IEEE T-ITS, PR, ICCV, ECCV, ACM MM, AAAI, etc. 
+I worked at Nokia Japan R&D center as a research engineer (2009-2010) in the Imaging Software Team led by [Jiunn Bay](https://rocketreach.co/jiunn-bay-email_45249003),
+and [Panasonic Singapore Lab](http://www.prdcsg.panasonic.com.sg/) as a project leader (2011) in the Media Processing Group led by [Shengmei Shen](https://scholar.google.com.sg/citations?user=zTf1pisAAAAJ&hl=zh-CN) and [CherKeng Heng](https://www.linkedin.com/in/cher-keng-heng-a3316154/). I have  published more than 100 papers in the international journals and conferences including the IEEE T-PAMI, IJCV, IEEE T-IP, IEEE T-MM, IEEE T-AFFC, IEEE T-CYB, IEEE T-CSVT, IEEE T-ITS, PR, CVPR, ICCV, ECCV, ACM MM, AAAI, etc.
 
 I am an IEEE member. Currently, I serve as an associate editor of [Neurocomputing](https://www.journals.elsevier.com/neurocomputing) and a young associate editor in [Journal of image and Graphics](http://www.cjig.cn/jig/ch/index.aspx) (JIG, 中国图象图形学报 in Chinese) and an active reviewer for several international journals  (including IEEE T-PAMI, IJCV, IEEE T-NNLS, IEEE T-IP, IEEE T-MM, Neurocomputing) and conferences (including CVPR 2021, ECCV 2020, AAAI 2021, AAAI 2020, PRCV 2020, ICCV 2019, etc).
 
@@ -29,6 +29,7 @@ Neurocomputing Special Issue on ["Deep Learning with Small Samples"](https://www
 
 Call for papers
 Sensors Special Issue on ["Scene Understanding for Autonomous Driving"](https://www.mdpi.com/journal/sensors/special_issues/SUAD).
+
 Deadline: 30 September 2022.
 
 ### Selected Publications
