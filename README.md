@@ -19,7 +19,7 @@ My interests focus on computer vision and pattern recognition, especially the fo
 - face detection, tracking, recognition
 - robust model fitting
 
-[中文主页](https://information.xmu.edu.cn/info/1019/3207.htm)
+[中文主页](https://informatics.xmu.edu.cn/info/1018/18221.htm)
 
 [Google Scholar](https://scholar.google.com/citations?user=g-cFsfkAAAAJ&hl=zh-CN)
 
