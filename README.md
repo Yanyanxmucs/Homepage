@@ -30,7 +30,7 @@ My interests focus on computer vision and pattern recognition, especially the fo
 
 ####  2024
 ##### Journal
-- Yang Xu, **Yan Yan***, Jing-Hao Xue, Yang Hua, Hanzi Wang. Unpaired Caricature-Visual Face Recognition via Feature Decomposition-Restoration-Decomposition. IEEE Transactions on Circuits Systems and Video Technology (IEEE T-CSVT), 2023.
+- Yang Xu, **Yan Yan***, Jing-Hao Xue, Yang Hua, Hanzi Wang. Unpaired Caricature-Visual Face Recognition via Feature Decomposition-Restoration-Decomposition. IEEE Transactions on Circuits Systems and Video Technology (IEEE T-CSVT), 2024.
 ##### Conference
 - Ziqiang Zhang, **Yan Yan***, Jing-Hao Xue, Hanzi Wang. Spatial-Contextual Discrepancy Information Compensation for GAN Inversion. AAAI Conference on Artificial Intelligence (AAAI), 2024.
 - Liuxiang Qiu, Si Chen, **Yan Yan***, Jing-Hao Xue, Da-Han Wang, Shunzhi Zhu. High-Order Structure Based Middle-Feature Learning for Visible-Infrared Person Re-Identification. AAAI Conference on Artificial Intelligence (AAAI), 2024.
