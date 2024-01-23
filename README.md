@@ -34,6 +34,7 @@ My interests focus on computer vision and pattern recognition, especially the fo
 ##### Conference
 - Ziqiang Zhang, **Yan Yan***, Jing-Hao Xue, Hanzi Wang. Spatial-Contextual Discrepancy Information Compensation for GAN Inversion. AAAI Conference on Artificial Intelligence (AAAI), 2024.
 - Liuxiang Qiu, Si Chen, **Yan Yan***, Jing-Hao Xue, Da-Han Wang, Shunzhi Zhu. High-Order Structure Based Middle-Feature Learning for Visible-Infrared Person Re-Identification. AAAI Conference on Artificial Intelligence (AAAI), 2024.
+
 ####  2023
 ##### Journal
 - **Yan Yan***, Ying Shu, Si Chen, Jing-Hao Xue, Chunhua Shen, Hanzi Wang. SPL-Net: Spatial-Semantic Patch Learning Network for Facial Attribute Recognition with Limited Labeled Data. International Journal of Computer Vision (IJCV), 131(8):2097-2121, 2023.
@@ -45,6 +46,7 @@ My interests focus on computer vision and pattern recognition, especially the fo
 - Qiang Qi, Yan Yan, Hanzi Wang*. Class-Aware Dual-Supervised Aggregation Network for Video Object Detection. IEEE Transactions on Multimedia (IEEE T-MM), 2023. 
 ##### Conference
 - Yukang Zhang, **Yan Yan**, Jie Li, Hanzi Wang. MRCN: A Novel Modality Restitution and Compensation Network for Visible-Infrared Person Re-identification. AAAI Conference on Artificial Intelligence (AAAI), 2023.
+
 ####  2022
 ##### Journal
 - Runqing Jiang, **Yan Yan***, Jing-Hao Xue, Biao Wang, Hanzi Wang. When Sparse Neural Network Meets Label Noise Learning: A Multi-Stage Learning Framework. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2022. 
@@ -55,6 +57,7 @@ My interests focus on computer vision and pattern recognition, especially the fo
 ##### Conference
 - Xinyi Zou, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. When Facial Expression Recognition Meets Few-Shot Learning: A Joint and Alternate Learning Framework. AAAI, 2022. [Link](https://arxiv.org/abs/2201.06781)
 - Xinyi Zou, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. Learn-to-Decompose: Cascaded Decomposition Network for Cross-Domain Few-Shot Facial Expression Recognition. European Conference on Computer Vision (ECCV), 2022.
+
 ####  2021
 ##### Journal
 - Genshun Dong, **Yan Yan***, Chunhua Shen, Hanzi Wang. Real-time high-performance semantic image segmentation of urban street scenes. IEEE Transactions on Intelligent Transportation Systems, 22(6), 3258-3274, 2021. [Link](https://arxiv.org/abs/2003.08736)
@@ -79,7 +82,6 @@ My interests focus on computer vision and pattern recognition, especially the fo
 - Guanjun Guo, Hanzi Wang*, **Yan Yan**, Jin Zheng, Bo Li, A fast face detection method via convolutional neural network, Neurocomputing, 2020. [[PDF]](https://arxiv.org/pdf/1803.10103)
 - 杨婉香，**严严***，陈思，张小康，王菡子. 基于多尺度生成对抗网络的遮挡行人重识别方法. 软件学报(In Chinese), 2020. [[PDF]](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5932&journal_id=jos)
 - 郭翰林，肖国宝，**严严**，林舒源，王菡子*，基于偏好统计数据表征的鲁棒几何模型拟合方法。计算机学报(In Chinese)，2020. 
-
 ##### Conference
 - Delian Ruan, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. Deep Disturbance-disentangled Learning for Facial Expression Recognition, Proceedings of the ACM Multimedia (MM), 2020.
 
@@ -90,7 +92,6 @@ My interests focus on computer vision and pattern recognition, especially the fo
 - Wanxiang Yang, **Yan Yan***, Si Chen. Adaptive Deep Metric Embeddings for Person Re-Identification under Occlusions. Neurocomputing, 336:56-66, 2019. [[PDF]](https://arxiv.org/pdf/2002.02603)
 - Liao Zhang, **Yan Yan**, Lin Cheng, Hanzi Wang*. Learning Object Scale with Click Supervision for Object Detection. IEEE Signal Processing Letters, 26(11):1618-1622, 2019.
 - Guobao Xiao, Hanzi Wang*, **Yan Yan**, Liming Zhang. Robust geometric model fitting based on iterative Hypergraph Construction and Partition. Neurocomputing, 336:115-127,2019.
-
 ##### Conference
 - Shuyuan Lin, Guobao Xiao, **Yan Yan**, Hanzi Wang*, David Suter. Hypergraph Optimization for Multi-structural Geometric Model Fitting. Proceedings of AAAI Conference on Artificial Intelligence, 2019. [[PDF]](https://arxiv.org/pdf/2002.05350)
 - Luo Xiong, Yanjie Liang, **Yan Yan**, Hanzi Wang*. Correlation filter tracking with adaptive proposal selection for accurate scale estimation. Proceedings of IEEE International Conference on Multimedia & Expo, 2019.
@@ -105,7 +106,6 @@ My interests focus on computer vision and pattern recognition, especially the fo
 - Guanjun Guo, Hanzi Wang*, Chunhua Shen, **Yan Yan**, Mark Liao. Automatic image cropping for visual aesthetic enhancement using deep neural networks and cascaded regression. IEEE Transactions on Multimedia (T-MM), 20(8):2073-2085, 2018. [[PDF]](https://arxiv.org/pdf/1712.09048)
 - Ying Huang, **Yan Yan***, Si Chen, Hanzi Wang. Expression-targeted feature learning for effective facial expression recognition. Journal of Visual Communication and Image Representation, 55, 677-687, 2018.
 - Guobao Xiao, Xing Wang, Hailing Luo, Jin Zheng, Bo Li, **Yan Yan**, Hanzi Wang*. Conceptual space based model fitting for multi-structure data. Neurocomputing 315: 115-127 (2018)
-
 ##### Conference
 - Yanjie Liang, Qiangqiang Wu, Yi Liu, **Yan Yan**, Hanzi Wang*. Robust Correlation Filter Tracking with Shepherded Instance-Aware Proposals, Proceedings of the ACM Multimedia (MM), 2018.
 - Qiangqiang Wu, **Yan Yan**, Yanjie Liang, Hanzi Wang*. DSNet: Deep and Shallow Feature Learning for Efficient Visual Tracking. Proceedings of Asian Conference on Computer Vision, ACCV, 2018. [[PDF]](https://arxiv.org/pdf/1811.02208)
