@@ -27,7 +27,6 @@ My interests focus on computer vision and pattern recognition, especially the fo
 
 
 ### Selected Publications
-
 ####  2024
 ##### Journal
 - Yang Xu, **Yan Yan***, Jing-Hao Xue, Yang Hua, Hanzi Wang. Unpaired Caricature-Visual Face Recognition via Feature Decomposition-Restoration-Decomposition. IEEE Transactions on Circuits Systems and Video Technology (IEEE T-CSVT), 2024.
@@ -62,7 +61,6 @@ My interests focus on computer vision and pattern recognition, especially the fo
 ##### Journal
 - Genshun Dong, **Yan Yan***, Chunhua Shen, Hanzi Wang. Real-time high-performance semantic image segmentation of urban street scenes. IEEE Transactions on Intelligent Transportation Systems, 22(6), 3258-3274, 2021. [Link](https://arxiv.org/abs/2003.08736)
 - Xiaokang Zhang, **Yan Yan***, Jing-Hao Xue, Yang Hua, Hanzi Wang. Semantic-aware occlusion-robust network for occluded person re-identification. IEEE Transactions on Circuits and Systems for Video Technology, 31(7), 2764-2778, 2021. [Link](https://ieeexplore.ieee.org/document/9236648)
-
 ##### Conference
 - Delian Ruan, **Yan Yan***, Shenqi Lai, Zhenhua Chai, Chunhua Shen, Hanzi Wang. Feature Decomposition and Reconstruction Learning for Effective Facial Expression. Proceedings of IEEE Conference on Computer Vision and Pattern Recognition, 2021. [Link](https://arxiv.org/abs/2104.05160)
 - Ying Shu, **Yan Yan***, Si Chen, Jing-Hao Xue, Chunhua Shen, Hanzi Wang. Learning spatial-semantic relationship for facial attribute recognition with limited labeled data. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, acceptance rate 23.7%), 11916-11925, 2021. [Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Learning_Spatial-Semantic_Relationship_for_Facial_Attribute_Recognition_With_Limited_Labeled_CVPR_2021_paper.pdf)
