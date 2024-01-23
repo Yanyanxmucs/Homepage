@@ -27,14 +27,34 @@ My interests focus on computer vision and pattern recognition, especially the fo
 
 
 ### Selected Publications
+
+####  2024
+##### Journal
+- Yang Xu, **Yan Yan***, Jing-Hao Xue, Yang Hua, Hanzi Wang. Unpaired Caricature-Visual Face Recognition via Feature Decomposition-Restoration-Decomposition. IEEE Transactions on Circuits Systems and Video Technology (IEEE T-CSVT), 2023.
+##### Conference
+- Ziqiang Zhang, **Yan Yan***, Jing-Hao Xue, Hanzi Wang. Spatial-Contextual Discrepancy Information Compensation for GAN Inversion. AAAI Conference on Artificial Intelligence (AAAI), 2024.
+- Liuxiang Qiu, Si Chen, **Yan Yan***, Jing-Hao Xue, Da-Han Wang, Shunzhi Zhu. High-Order Structure Based Middle-Feature Learning for Visible-Infrared Person Re-Identification. AAAI Conference on Artificial Intelligence (AAAI), 2024.
+####  2023
+##### Journal
+- **Yan Yan***, Ying Shu, Si Chen, Jing-Hao Xue, Chunhua Shen, Hanzi Wang. SPL-Net: Spatial-Semantic Patch Learning Network for Facial Attribute Recognition with Limited Labeled Data. International Journal of Computer Vision (IJCV), 131(8):2097-2121, 2023.
+- **Yan Yan***, Youze Xu, Jing-Hao Xue, Yang Lu, Hanzi Wang, Wentao Zhu*. Drop Loss for Person Attribute Recognition with Imbalanced Noisy-Labeled Samples. IEEE Transactions on Cybernetics (IEEE T-CYB), 53(11): 7071-7084, 2023.
+- Runqing Jiang, **Yan Yan***, Jing-Hao Xue, Si Chen, Nannan Wang, Hanzi Wang. Knowledge Distillation Meets Label Noise Learning: Ambiguity-Guided Mutual Label Refinery. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2023. 
+- Si Chen, Xueyan Zhu, **Yan Yan**, Shunzhi Zhu, Shao-Zi Li, Da-Han Wang. Identity-Aware Contrastive Knowledge Distillation for Facial Attribute Recognition. IEEE Trans. Circuits Syst. Video Technol. 33(10): 5692-5706, 2023. 
+- Qiang Qi, Tianxiang Hou, Yang Lu, **Yan Yan**, Hanzi Wang. DGRNet: A Dual-Level Graph Relation Network for Video Object Detection. IEEE Transactions on Image Processing (IEEE T-IP), 32: 4128-4141, 2023.
+- Qiang Qi, Tianxiang Hou, **Yan Yan**, Yang Lu, Hanzi Wang. TCNet: A Novel Triple-Cooperative Network for Video Object Detection. IEEE Transactions on Circuits Systems and Video Technology (IEEE T-CSVT), 33(8): 3649-3662, 2023.
+- Qiang Qi, Yan Yan, Hanzi Wang*. Class-Aware Dual-Supervised Aggregation Network for Video Object Detection. IEEE Transactions on Multimedia (IEEE T-MM), 2023. 
+##### Conference
+- Yukang Zhang, **Yan Yan**, Jie Li, Hanzi Wang. MRCN: A Novel Modality Restitution and Compensation Network for Visible-Infrared Person Re-identification. AAAI Conference on Artificial Intelligence (AAAI), 2023.
 ####  2022
 ##### Journal
+- Runqing Jiang, **Yan Yan***, Jing-Hao Xue, Biao Wang, Hanzi Wang. When Sparse Neural Network Meets Label Noise Learning: A Multi-Stage Learning Framework. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2022. 
 - Delian Ruan, Rongyun Mo, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. Adaptive Deep Disturbance-Disentangled Learning for Facial Expression Recognition. International Journal of Computer Vision, 2022. [Link](https://link.springer.com/article/10.1007/s11263-021-01556-7)
 - Xi Weng, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. Stage-aware feature alignment network for real-time semantic segmentation of street scenes. IEEE Transactions on Circuits and Systems for Video Technology, 2022. [Link](https://ieeexplore.ieee.org/document/9583294)
-
+- Xi Weng, **Yan Yan***, Genshun Dong, Chang Shu, Biao Wang*, Hanzi Wang, Ji Zhang. Deep Multi-Branch Aggregation Network for Real-Time Semantic Segmentation in Street Scenes. IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), 2022.
+- Rongyun Mo#, Shenqi Lai#, **Yan Yan***, Zhenhua Chai, Xiaolin Wei. Dimension-Aware Attention for Efficient Mobile Networks. Pattern Recognition (PR). 2022. 
 ##### Conference
 - Xinyi Zou, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. When Facial Expression Recognition Meets Few-Shot Learning: A Joint and Alternate Learning Framework. AAAI, 2022. [Link](https://arxiv.org/abs/2201.06781)
-
+- Xinyi Zou, **Yan Yan***, Si Chen, Jing-Hao Xue, Hanzi Wang. Learn-to-Decompose: Cascaded Decomposition Network for Cross-Domain Few-Shot Facial Expression Recognition. European Conference on Computer Vision (ECCV), 2022.
 ####  2021
 ##### Journal
 - Genshun Dong, **Yan Yan***, Chunhua Shen, Hanzi Wang. Real-time high-performance semantic image segmentation of urban street scenes. IEEE Transactions on Intelligent Transportation Systems, 22(6), 3258-3274, 2021. [Link](https://arxiv.org/abs/2003.08736)
