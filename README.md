@@ -29,6 +29,7 @@ My interests focus on computer vision and pattern recognition, especially the fo
 ### Selected Publications
 ####  2024
 ##### Journal
+- Fenghong Yang#, Runqing Jiang#, **Yan Yan***, Jing-Hao Xue, Biao Wang, Hanzi Wang. Dual-mode learning for multi-dataset X-ray security image detection.  IEEE Transactions on Information Forensics & Security (IEEE T-IFS), 2024.
 - Yang Xu, **Yan Yan***, Jing-Hao Xue, Yang Hua, Hanzi Wang. Unpaired Caricature-Visual Face Recognition via Feature Decomposition-Restoration-Decomposition. IEEE Transactions on Circuits Systems and Video Technology (IEEE T-CSVT), 2024.
 ##### Conference
 - Ziqiang Zhang, **Yan Yan***, Jing-Hao Xue, Hanzi Wang. Spatial-Contextual Discrepancy Information Compensation for GAN Inversion. AAAI Conference on Artificial Intelligence (AAAI), 2024.
