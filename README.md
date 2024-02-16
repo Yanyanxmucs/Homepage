@@ -31,7 +31,7 @@ My interests focus on computer vision and pattern recognition, especially the fo
 ##### Journal
 - Fenghong Yang#, Runqing Jiang#, **Yan Yan***, Jing-Hao Xue, Biao Wang, Hanzi Wang. Dual-mode learning for multi-dataset X-ray security image detection.  IEEE Transactions on Information Forensics & Security (IEEE T-IFS), 2024. [link](https://discovery.ucl.ac.uk/id/eprint/10187012/1/FenghongYang-TIFS-2024.pdf)
 - Yang Xu, **Yan Yan***, Jing-Hao Xue, Yang Hua, Hanzi Wang. Unpaired Caricature-Visual Face Recognition via Feature Decomposition-Restoration-Decomposition. IEEE Transactions on Circuits Systems and Video Technology (IEEE T-CSVT), 2024. [link](https://discovery.ucl.ac.uk/id/eprint/10187013/7/Xue_Unpaired%20Caricature-Visual%20Face%20Recognition%20via%20Feature%20Decomposition-Restoration-Decomposition_AAM2.pdf)
-- Xiao Wang, **Yan Yan**, Hai-Miao Hu, Bo Li, Hanzi Wang, Cross-Modal Contrastive Learning Network for Few-Shot Action Recognition. in IEEE Transactions on Image Processing (IEEE T-IP), 33: 1257-1271, 2024,
+- Xiao Wang, **Yan Yan**, Hai-Miao Hu, Bo Li, Hanzi Wang, Cross-Modal Contrastive Learning Network for Few-Shot Action Recognition. in IEEE Transactions on Image Processing (IEEE T-IP), 33: 1257-1271, 2024.
 ##### Conference
 - Ziqiang Zhang, **Yan Yan***, Jing-Hao Xue, Hanzi Wang. Spatial-Contextual Discrepancy Information Compensation for GAN Inversion. AAAI Conference on Artificial Intelligence (AAAI), 2024. [link](https://arxiv.org/pdf/2312.07079.pdf)
 - Liuxiang Qiu, Si Chen, **Yan Yan***, Jing-Hao Xue, Da-Han Wang, Shunzhi Zhu. High-Order Structure Based Middle-Feature Learning for Visible-Infrared Person Re-Identification. AAAI Conference on Artificial Intelligence (AAAI), 2024. [link](https://arxiv.org/pdf/2312.07853.pdf)
