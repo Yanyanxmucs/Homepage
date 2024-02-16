@@ -29,23 +29,24 @@ My interests focus on computer vision and pattern recognition, especially the fo
 ### Selected Publications
 ####  2024
 ##### Journal
-- Fenghong Yang#, Runqing Jiang#, **Yan Yan***, Jing-Hao Xue, Biao Wang, Hanzi Wang. Dual-mode learning for multi-dataset X-ray security image detection.  IEEE Transactions on Information Forensics & Security (IEEE T-IFS), 2024.
-- Yang Xu, **Yan Yan***, Jing-Hao Xue, Yang Hua, Hanzi Wang. Unpaired Caricature-Visual Face Recognition via Feature Decomposition-Restoration-Decomposition. IEEE Transactions on Circuits Systems and Video Technology (IEEE T-CSVT), 2024.
+- Fenghong Yang#, Runqing Jiang#, **Yan Yan***, Jing-Hao Xue, Biao Wang, Hanzi Wang. Dual-mode learning for multi-dataset X-ray security image detection.  IEEE Transactions on Information Forensics & Security (IEEE T-IFS), 2024. [link](https://discovery.ucl.ac.uk/id/eprint/10187012/1/FenghongYang-TIFS-2024.pdf)
+- Yang Xu, **Yan Yan***, Jing-Hao Xue, Yang Hua, Hanzi Wang. Unpaired Caricature-Visual Face Recognition via Feature Decomposition-Restoration-Decomposition. IEEE Transactions on Circuits Systems and Video Technology (IEEE T-CSVT), 2024. [link](https://discovery.ucl.ac.uk/id/eprint/10187013/7/Xue_Unpaired%20Caricature-Visual%20Face%20Recognition%20via%20Feature%20Decomposition-Restoration-Decomposition_AAM2.pdf)
+- Xiao Wang, **Yan Yan**, Hai-Miao Hu, Bo Li, Hanzi Wang, Cross-Modal Contrastive Learning Network for Few-Shot Action Recognition. in IEEE Transactions on Image Processing (IEEE T-IP), 33: 1257-1271, 2024,
 ##### Conference
-- Ziqiang Zhang, **Yan Yan***, Jing-Hao Xue, Hanzi Wang. Spatial-Contextual Discrepancy Information Compensation for GAN Inversion. AAAI Conference on Artificial Intelligence (AAAI), 2024.
-- Liuxiang Qiu, Si Chen, **Yan Yan***, Jing-Hao Xue, Da-Han Wang, Shunzhi Zhu. High-Order Structure Based Middle-Feature Learning for Visible-Infrared Person Re-Identification. AAAI Conference on Artificial Intelligence (AAAI), 2024.
+- Ziqiang Zhang, **Yan Yan***, Jing-Hao Xue, Hanzi Wang. Spatial-Contextual Discrepancy Information Compensation for GAN Inversion. AAAI Conference on Artificial Intelligence (AAAI), 2024. [link](https://arxiv.org/pdf/2312.07079.pdf)
+- Liuxiang Qiu, Si Chen, **Yan Yan***, Jing-Hao Xue, Da-Han Wang, Shunzhi Zhu. High-Order Structure Based Middle-Feature Learning for Visible-Infrared Person Re-Identification. AAAI Conference on Artificial Intelligence (AAAI), 2024. [link](https://arxiv.org/pdf/2312.07853.pdf)
 
 ####  2023
 ##### Journal
-- **Yan Yan***, Ying Shu, Si Chen, Jing-Hao Xue, Chunhua Shen, Hanzi Wang. SPL-Net: Spatial-Semantic Patch Learning Network for Facial Attribute Recognition with Limited Labeled Data. International Journal of Computer Vision (IJCV), 131(8):2097-2121, 2023.
-- **Yan Yan***, Youze Xu, Jing-Hao Xue, Yang Lu, Hanzi Wang, Wentao Zhu*. Drop Loss for Person Attribute Recognition with Imbalanced Noisy-Labeled Samples. IEEE Transactions on Cybernetics (IEEE T-CYB), 53(11): 7071-7084, 2023.
-- Runqing Jiang, **Yan Yan***, Jing-Hao Xue, Si Chen, Nannan Wang, Hanzi Wang. Knowledge Distillation Meets Label Noise Learning: Ambiguity-Guided Mutual Label Refinery. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2023. 
-- Si Chen, Xueyan Zhu, **Yan Yan**, Shunzhi Zhu, Shao-Zi Li, Da-Han Wang. Identity-Aware Contrastive Knowledge Distillation for Facial Attribute Recognition. IEEE Transactions on Circuits Systems and Video Technology (IEEE T-CSVT), 33(10): 5692-5706, 2023. 
-- Qiang Qi, Tianxiang Hou, Yang Lu, **Yan Yan**, Hanzi Wang. DGRNet: A Dual-Level Graph Relation Network for Video Object Detection. IEEE Transactions on Image Processing (IEEE T-IP), 32: 4128-4141, 2023.
-- Qiang Qi, Tianxiang Hou, **Yan Yan**, Yang Lu, Hanzi Wang. TCNet: A Novel Triple-Cooperative Network for Video Object Detection. IEEE Transactions on Circuits Systems and Video Technology (IEEE T-CSVT), 33(8): 3649-3662, 2023.
-- Qiang Qi, Yan Yan, Hanzi Wang*. Class-Aware Dual-Supervised Aggregation Network for Video Object Detection. IEEE Transactions on Multimedia (IEEE T-MM), 2023. 
+- **Yan Yan***, Ying Shu, Si Chen, Jing-Hao Xue, Chunhua Shen, Hanzi Wang. SPL-Net: Spatial-Semantic Patch Learning Network for Facial Attribute Recognition with Limited Labeled Data. International Journal of Computer Vision (IJCV), 131(8):2097-2121, 2023. [link](https://link.springer.com/article/10.1007/s11263-023-01787-w)
+- **Yan Yan***, Youze Xu, Jing-Hao Xue, Yang Lu, Hanzi Wang, Wentao Zhu*. Drop Loss for Person Attribute Recognition with Imbalanced Noisy-Labeled Samples. IEEE Transactions on Cybernetics (IEEE T-CYB), 53(11): 7071-7084, 2023. [link](https://ieeexplore.ieee.org/document/9780248)
+- Runqing Jiang, **Yan Yan***, Jing-Hao Xue, Si Chen, Nannan Wang, Hanzi Wang. Knowledge Distillation Meets Label Noise Learning: Ambiguity-Guided Mutual Label Refinery. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2023.  [link](https://discovery.ucl.ac.uk/id/eprint/10183782/1/RunqingJiang-TNNLS-2023-accepted.pdf)
+- Si Chen, Xueyan Zhu, **Yan Yan**, Shunzhi Zhu, Shao-Zi Li, Da-Han Wang. Identity-Aware Contrastive Knowledge Distillation for Facial Attribute Recognition. IEEE Transactions on Circuits Systems and Video Technology (IEEE T-CSVT), 33(10): 5692-5706, 2023. [link](https://ieeexplore.ieee.org/document/10064142)
+- Qiang Qi, Tianxiang Hou, Yang Lu, **Yan Yan**, Hanzi Wang. DGRNet: A Dual-Level Graph Relation Network for Video Object Detection. IEEE Transactions on Image Processing (IEEE T-IP), 32: 4128-4141, 2023. [link](https://ieeexplore.ieee.org/document/10179249)
+- Qiang Qi, Tianxiang Hou, **Yan Yan**, Yang Lu, Hanzi Wang. TCNet: A Novel Triple-Cooperative Network for Video Object Detection. IEEE Transactions on Circuits Systems and Video Technology (IEEE T-CSVT), 33(8): 3649-3662, 2023. [link](https://ieeexplore.ieee.org/document/10024313)
+- Qiang Qi, Yan Yan, Hanzi Wang*. Class-Aware Dual-Supervised Aggregation Network for Video Object Detection. IEEE Transactions on Multimedia (IEEE T-MM), 2023. [link](https://ieeexplore.ieee.org/document/10173615)
 ##### Conference
-- Yukang Zhang, **Yan Yan**, Jie Li, Hanzi Wang. MRCN: A Novel Modality Restitution and Compensation Network for Visible-Infrared Person Re-identification. AAAI Conference on Artificial Intelligence (AAAI), 2023.
+- Yukang Zhang, **Yan Yan**, Jie Li, Hanzi Wang. MRCN: A Novel Modality Restitution and Compensation Network for Visible-Infrared Person Re-identification. AAAI Conference on Artificial Intelligence (AAAI), 2023. [link](https://arxiv.org/pdf/2303.14626.pdf)
 
 ####  2022
 ##### Journal
